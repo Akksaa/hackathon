@@ -61,7 +61,7 @@ function page() {
                 </Link>
             </div>
             <div className='text-xs text-center justify-center flex '>
-                <p>Don't have an Account? </p>
+                <p>Don&apos;t have an Account? </p>
                 <Link href={"./signup"} className='text-primYellow ml-2 underline'>Signup</Link>
             </div>
             <div>
